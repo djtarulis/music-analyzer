@@ -1,0 +1,32 @@
+{
+    "Avenged_Sevenfold_-_So_Far_Away_Official_Music_Video.mp3": {
+        "filename": "Avenged_Sevenfold_-_So_Far_Away_Official_Music_Video.mp3",
+        "title": "Avenged Sevenfold - So Far Away [Official Music Video]",
+        "artist": "@avengedsevenfold",
+        "album": null,
+        "genre": "Unknown",
+        "duration": 328.85,
+        "tempo": 152.03,
+        "pitch": "G"
+    },
+    "Honor_Thy_Father.mp3": {
+        "filename": "Honor_Thy_Father.mp3",
+        "title": "Honor Thy Father",
+        "artist": "Dream Theater",
+        "album": "Train of Thought",
+        "genre": "Unknown",
+        "duration": 612.72,
+        "tempo": 93.75,
+        "pitch": "C#"
+    },
+    "Journey_-_Separate_Ways_Worlds_Apart_Official_HD_Video_-_1983.mp3": {
+        "filename": "Journey_-_Separate_Ways_Worlds_Apart_Official_HD_Video_-_1983.mp3",
+        "title": "Journey - Separate Ways (Worlds Apart) (Official HD Video - 1983)",
+        "artist": "journey",
+        "album": null,
+        "genre": "Unknown",
+        "duration": 265.66,
+        "tempo": 130.81,
+        "pitch": "E"
+    }
+}
