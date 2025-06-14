@@ -26,4 +26,4 @@ pip install -r requirements.txt
 
 An example of the visualization:
 
-![Dashboard Example](screenshots/music-analyzer-screenshot.png)
+![Dashboard](https://raw.githubusercontent.com/djtarulis/music-analyzer/main/screenshots/dashboard.png)
