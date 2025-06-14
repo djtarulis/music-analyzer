@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+music_data.json
+*.wav
+*.mp3
+.idea/
+.vscode/

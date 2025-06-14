@@ -23,3 +23,7 @@ pip install -r requirements.txt
     Run main.py to generate music_data.json.
 
     Run dashboard.py to visualize the data.
+
+An example of the visualization:
+
+![Dashboard Example](screenshots/music-analyzer-screenshot.png)
